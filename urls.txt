@@ -1,0 +1,8 @@
+template
+    https://github.com/sansking/template.git
+OSS
+    https://github.com/sansking/OSS.git
+Note
+    https://github.com/sansking/Note.git
+General
+	https://github.com/sansking/general.git
